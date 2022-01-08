@@ -1,3 +1,3 @@
-basic.forever(function () {
-	
-})
+function doSomething() {
+basic.showNumber(0)
+}
